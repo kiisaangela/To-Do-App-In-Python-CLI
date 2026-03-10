@@ -17,3 +17,18 @@ Email : vermakrish921@gmail.com
 <br><br>
 
 Thank U So Much
+
+
+## Error Handling and Logging Improvements
+
+This repository was forked and focused on improving error handling and logging in a simple Python CLI application.
+
+### Changes Made
+- Added input validation for menu options and task entries
+- Implemented exception handling
+- Introduced Python's `logging` module for developer diagnostics
+- Added meaningful log levels (`INFO`, `WARNING`)
+- Improved user feedback for invalid actions
+
+### Key Improvements
+The updated version prevents invalid inputs, handles unexpected errors, and logs important events such as task creation, removal, and invalid user actions.
